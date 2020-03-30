@@ -23,7 +23,10 @@ var Svg = d3.select("#dataviz_brushZoom")
           "translate(" + margin.left + "," + margin.top + ")");
 
 //Read the data
-d3.csv("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/iris.csv", function(data) {
+d3.csv("https://raw.githubusercontent.com/lakshanmit/Corona_Viz/master/data/Yesterday_Consolidated.csv", function(data) {
+
+
+console.log(data);
 
   // Add X axis
   var x = d3.scaleLinear()
@@ -69,10 +72,10 @@ d3.csv("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/ir
     .data(data)
     .enter()
     .append("circle")
-      .attr("cx", function (d) { return x(d.Sepal_Length); } )
-      .attr("cy", function (d) { return y(d.Petal_Length); } )
+      .attr("cx", function (d) { return x(d.Confirmed); } )
+      .attr("cy", function (d) { return y(d.Recovered); } )
       .attr("r", 8)
-      .style("fill", function (d) { return color(d.Species) } )
+      .style("fill", function (d) { return color(d.Country/Region) } )
       .style("opacity", 0.5)
 
   // Add the brushing
