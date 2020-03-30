@@ -1,105 +1,178 @@
 Country,Date,Confirmed,Deaths,Recovered
-Afghanistan,43919,120,,
-Albania,43919,212,,
-Algeria,43919,511,,
-Andorra,43919,334,,
-Argentina,43919,745,,
-Armenia,43919,424,,
-Australia,43919,3826,,191
-Austria,43919,8788,,479
-Azerbaijan,43919,209,,
-Bahrain,43919,499,,272
+Afghanistan,43919,120,4,2
+Albania,43919,212,10,33
+Algeria,43919,511,31,31
+Andorra,43919,334,6,1
+Angola,43919,7,2,
+Antigua and Barbuda,43919,7,,
+Argentina,43919,745,19,72
+Armenia,43919,424,3,30
+Australia,43919,3984,16,244
+Austria,43919,8788,86,479
+Azerbaijan,43919,209,4,15
+Bahamas,43919,11,,1
+Bahrain,43919,499,4,272
+Bangladesh,43919,48,5,15
+Barbados,43919,33,,
+Belarus,43919,94,,32
 Belgium,43919,10836,431,1359
-Bosnia and Herzegovina,43919,323,,
-Brazil,43919,4256,136,
-Brunei,43919,126,,
-Bulgaria,43919,346,,
-Burkina Faso,43919,222,,
-Cambodia,43919,103,,
-Cameroon,43919,139,,
-Canada,43919,6113,,466
-Chile,43919,2139,,
-China,43919,81722,3182,75239
-Colombia,43919,702,,
-Costa Rica,43919,314,,
-Cote d'Ivoire,43919,165,,
-Croatia,43919,713,,
-Cuba,43919,139,,
-Cyprus,43919,214,,
-Czechia,43919,2817,,
-Denmark,43919,2554,,
-Diamond Princess,43919,712,,603
-Dominican Republic,43919,859,,
-Ecuador,43919,1924,,
-Egypt,43919,609,,132
-Estonia,43919,679,,
-Finland,43919,1240,,
-France,43919,40463,2606,7202
+Belize,43919,2,,
+Benin,43919,6,,
+Bhutan,43919,4,,
+Bolivia,43919,81,1,
+Bosnia and Herzegovina,43919,323,6,8
+Brazil,43919,4256,136,6
+Brunei,43919,126,1,34
+Bulgaria,43919,346,8,14
+Burkina Faso,43919,222,12,23
+Burma,43919,10,,
+Cabo Verde,43919,6,1,
+Cambodia,43919,103,,21
+Cameroon,43919,139,6,5
+Canada,43919,6280,64,466
+Central African Republic,43919,3,,
+Chad,43919,3,,
+Chile,43919,2139,7,75
+China,43919,82122,3304,75582
+Colombia,43919,702,10,10
+Congo (Brazzaville),43919,19,,
+Congo (Kinshasa),43919,65,6,2
+Costa Rica,43919,314,2,3
+Cote d'Ivoire,43919,165,1,4
+Croatia,43919,713,6,52
+Cuba,43919,139,3,4
+Cyprus,43919,214,5,15
+Czechia,43919,2817,16,11
+Denmark,43919,2564,72,73
+Diamond Princess,43919,712,10,603
+Djibouti,43919,18,,
+Dominica,43919,11,,
+Dominican Republic,43919,859,39,3
+Ecuador,43919,1924,58,3
+Egypt,43919,609,40,132
+El Salvador,43919,24,,
+Equatorial Guinea,43919,12,,
+Eritrea,43919,12,,
+Estonia,43919,679,3,20
+Eswatini,43919,9,,
+Ethiopia,43919,21,,1
+Fiji,43919,5,,
+Finland,43919,1240,11,10
+France,43919,40708,2611,7226
+Gabon,43919,7,1,
+Gambia,43919,4,1,
+Georgia,43919,91,,18
 Germany,43919,62095,533,9211
-Ghana,43919,152,,
-Greece,43919,1156,,
-Honduras,43919,110,,
-Hungary,43919,408,,
-Iceland,43919,1020,,135
-India,43919,1024,,
-Indonesia,43919,1285,114,
+Ghana,43919,152,5,2
+Greece,43919,1156,38,52
+Grenada,43919,9,,
+Guatemala,43919,34,1,10
+Guinea,43919,16,,
+Guinea-Bissau,43919,2,,
+Guyana,43919,8,1,
+Haiti,43919,15,,1
+Holy See,43919,6,,
+Honduras,43919,110,3,3
+Hungary,43919,408,13,34
+Iceland,43919,1020,2,135
+India,43919,1024,27,95
+Indonesia,43919,1285,114,64
 Iran,43919,38309,2640,12391
-Iraq,43919,547,,143
-Ireland,43919,2615,,
-Israel,43919,4247,,132
+Iraq,43919,547,42,143
+Ireland,43919,2615,46,5
+Israel,43919,4247,15,132
 Italy,43919,97689,10779,13030
-Japan,43919,1866,,424
-Jordan,43919,259,,
-Kazakhstan,43919,284,,
+Jamaica,43919,32,1,2
+Japan,43919,1866,54,424
+Jordan,43919,259,3,18
+Kazakhstan,43919,284,1,20
+Kenya,43919,42,1,1
 "Korea, South",43919,9583,152,5033
-Kuwait,43919,255,,
-Latvia,43919,347,,
-Lebanon,43919,438,,
-Lithuania,43919,460,,
-Luxembourg,43919,1950,,
-Malaysia,43919,2470,,388
-Malta,43919,151,,
-Mauritius,43919,107,,
-Mexico,43919,848,,
-Moldova,43919,263,,
-Morocco,43919,479,,
-Netherlands,43919,10866,771,250
-New Zealand,43919,514,,
-Nigeria,43919,111,,
-North Macedonia,43919,259,,
-Norway,43919,4284,,
-Oman,43919,167,,
-Pakistan,43919,1597,,
-Panama,43919,901,,
-Peru,43919,852,,
-Philippines,43919,1418,,
-Poland,43919,1862,,
-Portugal,43919,5962,119,
-Qatar,43919,634,,
-Romania,43919,1815,,206
-Russia,43919,1534,,
-San Marino,43919,224,,
-Saudi Arabia,43919,1299,,
-Senegal,43919,142,,
-Serbia,43919,741,,
-Singapore,43919,844,,212
-Slovakia,43919,314,,
-Slovenia,43919,730,,
-South Africa,43919,1280,,
+Kosovo,43919,94,1,1
+Kuwait,43919,255,,67
+Kyrgyzstan,43919,84,,
+Laos,43919,8,,
+Latvia,43919,347,,1
+Lebanon,43919,438,10,30
+Liberia,43919,3,,
+Libya,43919,8,,
+Liechtenstein,43919,56,,
+Lithuania,43919,460,7,1
+Luxembourg,43919,1950,21,40
+MS Zaandam,43919,2,,
+Madagascar,43919,39,,
+Malaysia,43919,2470,35,388
+Maldives,43919,17,,13
+Mali,43919,18,1,
+Malta,43919,151,,2
+Mauritania,43919,5,,2
+Mauritius,43919,107,3,
+Mexico,43919,848,16,4
+Moldova,43919,263,2,2
+Monaco,43919,46,1,1
+Mongolia,43919,12,,
+Montenegro,43919,85,1,
+Morocco,43919,479,26,13
+Mozambique,43919,8,,
+Namibia,43919,11,,2
+Nepal,43919,5,,1
+Netherlands,43919,10930,772,253
+New Zealand,43919,514,1,56
+Nicaragua,43919,4,1,
+Niger,43919,18,1,
+Nigeria,43919,111,1,3
+North Macedonia,43919,259,6,3
+Norway,43919,4284,25,7
+Oman,43919,167,,23
+Pakistan,43919,1597,14,29
+Panama,43919,901,17,4
+Papua New Guinea,43919,1,,
+Paraguay,43919,59,3,1
+Peru,43919,852,18,16
+Philippines,43919,1418,71,42
+Poland,43919,1862,22,7
+Portugal,43919,5962,119,43
+Qatar,43919,634,1,48
+Romania,43919,1815,43,206
+Russia,43919,1534,8,64
+Rwanda,43919,70,,
+Saint Kitts and Nevis,43919,2,,
+Saint Lucia,43919,9,,1
+Saint Vincent and the Grenadines,43919,1,,1
+San Marino,43919,224,22,6
+Saudi Arabia,43919,1299,8,66
+Senegal,43919,142,,27
+Serbia,43919,741,13,
+Seychelles,43919,8,,
+Singapore,43919,844,3,212
+Slovakia,43919,314,,2
+Slovenia,43919,730,11,10
+Somalia,43919,3,,
+South Africa,43919,1280,2,31
 Spain,43919,80110,6803,14709
-Sri Lanka,43919,117,,
-Sweden,43919,3700,110,
+Sri Lanka,43919,117,1,11
+Sudan,43919,6,1,
+Suriname,43919,8,,
+Sweden,43919,3700,110,16
 Switzerland,43919,14829,300,1595
-Taiwan*,43919,298,,
-Thailand,43919,1388,,
-Tunisia,43919,312,,
+Syria,43919,9,1,
+Taiwan*,43919,298,2,30
+Tanzania,43919,14,,1
+Thailand,43919,1388,7,97
+Timor-Leste,43919,1,,
+Togo,43919,25,1,1
+Trinidad and Tobago,43919,78,3,1
+Tunisia,43919,312,8,2
 Turkey,43919,9217,131,105
 US,43919,140886,2467,2665
-Ukraine,43919,475,,
-United Arab Emirates,43919,570,,
-United Kingdom,43919,19630,1228,135
-Uruguay,43919,304,,
-Uzbekistan,43919,144,,
-Venezuela,43919,119,,
-Vietnam,43919,188,,
-West Bank and Gaza,43919,109,,
+Uganda,43919,33,,
+Ukraine,43919,475,10,6
+United Arab Emirates,43919,570,3,58
+United Kingdom,43919,19780,1231,151
+Uruguay,43919,304,1,
+Uzbekistan,43919,144,2,7
+Venezuela,43919,119,2,39
+Vietnam,43919,188,,25
+West Bank and Gaza,43919,109,1,18
+Zambia,43919,29,,
+Zimbabwe,43919,7,1,
