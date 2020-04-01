@@ -1,4 +1,4 @@
-Country,Date,Confirmed,Deaths,Recovered,Recover Rate,Death Rate
+Country,Date,Confirmed,Deaths,Recovered,Recover_Rate,Death_Rate
 Afghanistan,43885,1,,,0,0
 Afghanistan,43886,1,,,0,0
 Afghanistan,43887,1,,,0,0
