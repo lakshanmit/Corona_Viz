@@ -1,5 +1,4 @@
-Country,Date,Confirmed,Deaths,Recovered,Recover_Rate,Death_Rate,Total_Tests,"Tests_Per_M
-1M pop"
+Country,Date,Confirmed,Deaths,Recovered,Recover_Rate,Death_Rate,Total_Tests,Tests_Per_M
 Albania,43925,333,20,99,0.297297297,0.06006006,2247,781
 US,43925,308850,8407,14652,0.047440505,0.027220333,1632955,4933
 Algeria,43925,1251,130,90,0.071942446,0.103916867,3359,77
