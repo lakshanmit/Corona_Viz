@@ -1,4 +1,4 @@
-    task,    type,    startTime,    endTime,    details
+task,type,startTime,endTime,details
 conceptualize,development,28/1/2013,1/2/2013,This actually didn't take any conceptualization
 sketch,development,1/2/2013,6/2/2013,"No sketching either, really"
 color profiles,development,6/2/2013,9/2/2013,
